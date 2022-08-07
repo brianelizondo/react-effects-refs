@@ -1,0 +1,21 @@
+.DeckCards h1{
+    color: white;
+}
+
+.DeckCards-button{
+    background-color: black;
+    color: white;
+    font-size: 11px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.DeckCards-button:hover{
+    background-color: darkgrey;
+    cursor: pointer;
+}
+
+.DeckCards-hidden{
+    visibility: hidden;
+}

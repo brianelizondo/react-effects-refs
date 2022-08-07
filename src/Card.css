@@ -1,0 +1,12 @@
+.Card{
+    margin-top: 70px;
+    position: relative;
+    width: 100% !important;
+}
+.Card-div_card{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    text-align: center !important;
+}
